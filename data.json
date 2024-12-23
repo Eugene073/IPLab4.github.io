@@ -2,13 +2,24 @@
     {
         "id": 1,
         "name": "Товар 1",
-        "description": "Описание товара:.",
+        "description": "Описание товара: 1.",
         "image": "chery.jpg"
     },
     {
         "id": 2,
         "name": "Товар 2",
-        "description": "Описание товара: .",
+        "description": "Описание товара: 2.",
+        "image": "images/product2.jpg"
+    },
+     {
+        "id": 3,
+        "name": "Товар 3",
+        "description": "Описание товара 3.",
+        "image": "images/product2.jpg"
+    }, {
+        "id": 4,
+        "name": "Товар 4",
+        "description": "Описание товара 4.",
         "image": "images/product2.jpg"
     }
 ]
